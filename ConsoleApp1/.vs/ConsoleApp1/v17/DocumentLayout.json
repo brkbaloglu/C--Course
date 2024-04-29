@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB7B90F-DDAA-42F7-966E-E3995AAE2C59}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\lenovo\\desktop\\c#-udemy\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB7B90F-DDAA-42F7-966E-E3995AAE2C59}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614F7200-FCED-4A67-B6D8-B540AAF89DD3}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614F7200-FCED-4A67-B6D8-B540AAF89DD3}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367BDE32-3A54-499C-97CE-EADBF16C2EAC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\lenovo\\desktop\\c#-udemy\\consoleapp1\\classlibrary1\\lowerstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367BDE32-3A54-499C-97CE-EADBF16C2EAC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\lowerstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367BDE32-3A54-499C-97CE-EADBF16C2EAC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\lenovo\\desktop\\c#-udemy\\consoleapp1\\classlibrary1\\biggerstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367BDE32-3A54-499C-97CE-EADBF16C2EAC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\biggerstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614F7200-FCED-4A67-B6D8-B540AAF89DD3}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614F7200-FCED-4A67-B6D8-B540AAF89DD3}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367BDE32-3A54-499C-97CE-EADBF16C2EAC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\lenovo\\desktop\\c#-udemy\\consoleapp1\\classlibrary1\\sdklib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367BDE32-3A54-499C-97CE-EADBF16C2EAC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\sdklib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614F7200-FCED-4A67-B6D8-B540AAF89DD3}|WindowsFormsApp2\\WindowsFormsApp2.csproj|C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{614F7200-FCED-4A67-B6D8-B540AAF89DD3}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAOQEAAAAAAAAAAA8wL0DAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:48:42.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\WindowsFormsApp2\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\WindowsFormsApp2\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:48:30.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LowerString.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\ClassLibrary1\\LowerString.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\LowerString.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\ClassLibrary1\\LowerString.cs",
+              "RelativeToolTip": "ClassLibrary1\\LowerString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:39:52.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BiggerString.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\ClassLibrary1\\BiggerString.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\BiggerString.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\ClassLibrary1\\BiggerString.cs",
+              "RelativeToolTip": "ClassLibrary1\\BiggerString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:37:35.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\WindowsFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwB0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:28:57.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SDKLib.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\ClassLibrary1\\SDKLib.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\SDKLib.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\ClassLibrary1\\SDKLib.cs",
+              "RelativeToolTip": "ClassLibrary1\\SDKLib.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwDAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:21:08.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\c#-udemy\\ConsoleApp1\\WindowsFormsApp2\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:17:06.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
